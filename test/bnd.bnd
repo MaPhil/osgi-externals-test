@@ -1,0 +1,2 @@
+-buildpath: external.commons_codec
+-runfw: org.eclipse.osgi;version='[3.13.100.v20180827-1536,3.13.100.v20180827-1536]'

@@ -1,0 +1,6 @@
+-classpath: jar/commons-codec-1.9.jar
+Bundle-Version: 1.0.0
+Bundle-Name: com.hhu.p2pframework.externals.commons_codec
+Bundle-Description: This is a wrapper for the commons-codec-1.9 dependency
+Bundle-Category: external
+Export-Package: *
